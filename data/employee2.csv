@@ -1,0 +1,12 @@
+Employee_id,Name         ,Email,Mobile,Location,Profession,Organisation Detail,Primary Skill,Secondary Skill,Experience_Years ,Experience_Month,Start Date,End Date,Status  ,Bench Days,Bench Reason,Linked In Profile
+E001        ,Rahul Singh,NA,NA,Bangalore ,Data Analyst       ,NA,Python        ,SQL              ,3,0,March 2024,February 2026,Bench   ,25,,
+E002        ,Sneha Rana ,NA,NA,Hyderabad ,Data Scientist     ,NA,Python        ,Machine Learning ,5,0,March 2022,March 2026,Project ,0,,
+E003        ,Ajay Kumar   ,NA,NA,Pune      ,Backend Developer  ,NA,Java          ,Spring Boot      ,4,1,,,Bench   ,18,,
+E004        ,Neha Rajan  ,NA,NA,Bangalore ,Data Engineer      ,NA,Python        ,Spark            ,6,2,,,Project ,0,,
+E005        ,Amit Patel   ,NA,NA,Chennai   ,DevOps Engineer    ,NA,AWS           ,Docker           ,5,3,,,Bench   ,30,,
+E006        ,Pooja Singh  ,NA,NA,Gurgaon   ,Data Analyst       ,NA,SQL           ,Power BI         ,2,4,,,Bench   ,15,,
+E007        ,Vikram Rao   ,NA,NA,Hyderabad ,ML Engineer        ,NA,Python        ,TensorFlow       ,7,5,,,Project ,0,,
+E008        ,Anjali Kumari ,NA,NA,Pune      ,Frontend Developer ,NA,React         ,JavaScript       ,3,6,,,Bench   ,10,,
+E009        ,Karan Shah   ,NA,NA,Bangalore ,Data Engineer      ,NA,SQL           ,Hadoop           ,4,7,,,Project ,0,,
+E010        ,Riya Kapoor  ,NA,NA,Gurgaon   ,Business Analyst   ,NA,Excel         ,Power BI         ,3,8,,,Bench   ,12,,
+E011,Aachal Singh,aachalsingh274@gmail.com,NA,"Noida, Uttar Pradesh, India",SEO Specialist,Red Web Raising,"technical SEO (site speed, crawlability), content strategy, and keyword research","HTML CSS JavaScript Google Analytics/Search Console,",1,1,January 2025,January 2026,Bench,60,New Opportunity,linkedin.com/in/aachal-singh-5b5366335
